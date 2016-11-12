@@ -1,0 +1,4 @@
+c:\users\mariaj saleem\documents\visual studio 2010\Projects\mobileshop\mobileshop\bin\mobileshop.dll
+c:\users\mariaj saleem\documents\visual studio 2010\Projects\mobileshop\mobileshop\bin\mobileshop.pdb
+c:\users\mariaj saleem\documents\visual studio 2010\Projects\mobileshop\mobileshop\obj\Debug\mobileshop.dll
+c:\users\mariaj saleem\documents\visual studio 2010\Projects\mobileshop\mobileshop\obj\Debug\mobileshop.pdb
